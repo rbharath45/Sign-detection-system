@@ -1,0 +1,5 @@
+keras==2.10.0
+numpy==1.23.2
+streamlit==1.12.0
+tensorflow==2.10.0
+~pencv_python_headless==4.5.4.60
